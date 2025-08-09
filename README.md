@@ -1,7 +1,3 @@
-Aqui está um rascunho de apresentação para o seu projeto no GitHub, formatado em Markdown. Você pode copiar e colar diretamente no arquivo **README.md** do seu repositório.
-
------
-
 ## 📊 Análise de Dados de Vendas com Python
 
 Este projeto é o resultado de uma imersão em Análise de Dados da Alura, onde utilizei Python para extrair insights valiosos de um conjunto de dados de vendas. O objetivo foi aplicar as principais etapas do fluxo de trabalho de um analista de dados, desde a limpeza e preparação dos dados até a construção de um dashboard interativo.
