@@ -1,4 +1,4 @@
-## 📊 Análise de Dados de Vendas com Python
+## 📊 Análise de Dados com Python
 
 Este projeto é o resultado de uma imersão em Análise de Dados da Alura, onde utilizei Python para extrair insights valiosos de um conjunto de dados de vendas. O objetivo foi aplicar as principais etapas do fluxo de trabalho de um analista de dados, desde a limpeza e preparação dos dados até a construção de um dashboard interativo.
 
