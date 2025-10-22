@@ -17,7 +17,7 @@ Este projeto é o resultado de uma imersão em Análise de Dados da Alura, onde 
 
 <figure>
   <img 
-    src="figure/fig1.png" 
+    src="figure/Fig1.png" 
     alt="Descrição da Figura 1"
     style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
   >
@@ -30,7 +30,7 @@ Este projeto é o resultado de uma imersão em Análise de Dados da Alura, onde 
 
 <figure>
   <img 
-    src="figure/fig2.png" 
+    src="figure/Fig2.png" 
     alt="Descrição da Figura 2"
     style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
   >
