@@ -13,6 +13,30 @@ Este projeto é o resultado de uma imersão em Análise de Dados da Alura, onde 
 
 -----
 
+### Imagens do projeto
+
+<figure>
+  <img 
+    src="figure/fig1.png" 
+    alt="Descrição da Figura 1"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  >
+  <figcaption align="center">Figura 1: Título ou descrição detalhada da primeira imagem.</figcaption>
+</figure>
+
+<br>
+<hr>
+<br>
+
+<figure>
+  <img 
+    src="figure/fig2.png" 
+    alt="Descrição da Figura 2"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  >
+  <figcaption align="center">Figura 2: Título ou descrição detalhada da segunda imagem.</figcaption>
+</figure>
+
 ### 📈 Etapas do Projeto
 
 1.  **Análise e Exploração de Dados:** Utilizei o **Pandas** para carregar o conjunto de dados, entender sua estrutura, tipos de dados e estatísticas descritivas iniciais.
